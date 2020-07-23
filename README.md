@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### I'm Ifeanyi Kelvin Ossai, A Fullstack JavaScript Engineer
+I'm Ifeanyi Kelvin Ossai, a self taught software engineer based in Lagos, Nigeria.
+>iCreate • iCode • iDesign.
 
 <!--
 **Kelvinblaze/kelvinblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
