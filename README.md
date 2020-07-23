@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Ifeanyi Kelvin Ossai, a self taught software engineer based in Lagos, Nigeria.
->iCreate • iCode • iDesign.
+*iCreate • iCode • iDesign.*
+Making things looks pretty on the web is one of my favourite things to do. I’m a very meticulous and fun-loving software engineer who has a flair for UI design. I love to write easy to understand and maintainable code.
 
 <!--
 **Kelvinblaze/kelvinblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
