@@ -12,6 +12,5 @@ Making things looks pretty on the web is one of my favourite things to do. I’m
 - 🤔 I’m looking for help with innovative ideas to reshape the world
 - 💬 Ask me about my Tech Journey
 - 📫 How to reach me: ifeanyiko4u@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Favourite Quote: "Starve your Distractions, Feed your Focus"
 - 👉 Learn more about me via : https://kelvinblaze.github.io
